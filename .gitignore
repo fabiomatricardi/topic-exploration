@@ -1,0 +1,9 @@
+# Tool internals (not project content)
+.opencode/
+
+# Auto-generated session artifacts
+PLAN_session-*.md
+
+# OS noise
+Thumbs.db
+.DS_Store

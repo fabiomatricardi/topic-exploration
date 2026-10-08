@@ -1,0 +1,138 @@
+✅ Zero to AI
+Master free AI tools like Gemini & FLUX—no degree, no expensive hardware. Turn prompts into real projects, even on a 10-year-old laptop. With this e-book (in the form of a GooleDoc document, to keep the animations and videos) you get:
+
+🔍 Access powerful AI models like Gemini and Flux completely free
+
+💻 Create working applications even on older computers
+
+🎨 Generate stunning images with simple text prompts
+
+🤖 Build your own AI assistant that can process and analyze text
+
+​
+
+✅ FLUX Prompt Templates
+Go from blurry chaos to gallery-ready images with a proven 5-part prompt formula, 10 plug-and-play style templates, and visual cheat sheets.
+
+This is a comprehensive guide, from confusion into clarity, from frustrated beginner to confident prompt engineer. This is a complete system for mastering FLUX.Schnell image generation.
+
+📌 The Simple Prompt Formula - My proven 5-component structure that works consistently (Subject + Style + Mood + Lighting + Perspective)
+
+📌 10 High-Converting Art Style Templates - Ready-to-use templates for the top-notch styles
+
+📌 Advanced Prompting Techniques - Master layered prompts, style fusion, temporal narratives, and emotional gradients
+
+📌 Visual Examples - See exactly what makes a prompt work with side-by-side comparisons
+
+📌 Do's and Don'ts Cheat Sheet - Avoid common mistakes that sabotage your results
+
+​
+
+✅ Ctrl + Think AI for Critical Minds
+Build real AI tools in Python—30 minutes a day, zero GPU required. For those who remember when “Ctrl+C” meant something.
+
+This is an amazing e-book + email course. For those who remember DOS, survived the dot-com bubble, and still believe thinking matters.
+You don’t need another ChatGPT demo. You don’t need a PhD or a GPU farm. You just need 30 minutes a day—and the freedom to learn at your own pace.
+
+📘 The Full Ebook
+🧰 Your AI Sandbox: no-Stress Setup Guide
+📋 IPython Cheat Sheet
+📩 one e-mail a day to learn python and AI
+💬 Daily Email Support (Yes, I Read Them)
+You’ll build real tools:
+
+A local AI chatbot
+A text summarizer
+A debug helper
+Custom prompt templates
+All with free tools. All on your machine. And yes—you’ll learn Python. Not by memorizing, but by building.
+
+
+These are the feedbacks I got (and I am quite proud of it):
+
+I bought ‘Zero to AI’ thinking it’d be another ‘learn AI in 5 minutes’ gimmick. Instead, I spent a rainy Sunday following the free-Gemini workflow—and by evening, I’d built a tool that auto-summarizes my client emails. On my 2017 MacBook. No credit card, no computer science studies. Just clear steps that actually work. This book feels like a friend quietly handing you the keys.”​
+​— Marco T., Bologna
+
+​
+
+I was drowning in FLUX prompts that gave me mutant cats and melted landscapes. Then I tried the 5-component formula from ‘FLUX Prompt Templates.’ Suddenly, I could generate the moody, cinematic scenes I’d only imagined. The side-by-side examples were a game-changer—finally, I understand why a prompt works, not just copy-paste. Worth ten times the price.”​
+​— Sofia R., New York
+
+​
+
+‘Ctrl + Think AI’ is the only AI guide that didn’t make me roll my eyes. No ‘disruptive innovation’ nonsense—just a sane, incremental path to building real tools in Python. The daily email support? I asked a dumb question about token limits at 11 PM… and got a thoughtful reply by morning. Feels like learning from a fellow traveler, not a salesman.”​
+​— Bautista D., Buenos Aires
+
+​
+
+Good morning,
+
+Today is the final day to get "Zero to AI: Crafting AI Magic Only with Free Resources" at the special launch price of €17.
+
+At midnight tonight, it increases to its regular price of €37.
+
+The final countdown has begun. Will you seize this opportunity?
+
+​
+
+Let me quickly remind you of everything you'll receive:
+
+Master Powerful AI Tools Without Spending a Fortune or Needing a Computer Science Degree
+
+Stop thinking AI is only for tech experts with expensive hardware. Start creating stunning images and building intelligent chatbots today using completely free resources.
+
+This is the exact system I used to build working AI applications with zero budget - and I'll show you how to do the same, even if you're a complete beginner.
+
+MY STORY
+I went from being intimidated by AI to building my own image generators and intelligent chatbots in just months. The best part? I did it all with free tools, basic coding knowledge, and an average computer.
+
+Once I discovered how to leverage free AI resources, everything changed. I went from watching AI developments from the sidelines to actively creating and experimenting with the technology.
+
+...and now I'm revealing my entire process so you can do the same.
+
+Introducing: Zero to AI - Crafting AI Magic Only with Free Resources
+Learn how to control the power of cutting-edge AI models without spending a cent - even if you've never written a line of code before.
+
+Stop struggling with expensive subscriptions and complex setups. Start building functional AI applications that generate images and respond intelligently to your questions.
+
+Plus, you'll receive complete, ready-to-use code templates that you can customize for your own projects.
+
+This E-Book is Perfect for You if You Want to:
+🔍 Access powerful AI models like Gemini and Flux completely free
+
+💻 Create working applications even on older computers
+
+🎨 Generate stunning images with simple text prompts
+
+🤖 Build your own AI assistant that can process and analyze text
+
+📚 Learn the fundamentals of prompt engineering to get better results
+
+🚀 Start your AI journey without expensive hardware or subscriptions
+
+Here's What You'll Learn:
+✅ The "Free API Access Blueprint": My step-by-step system for accessing top-tier AI models without spending a cent (This helped me build applications that would normally cost hundreds in subscription fees)
+
+✅ The "AI Terminal Assistant Setup": Build a functioning AI chatbot that runs directly from your computer (I'll show you exactly how to set up the code even if you're a beginner)
+
+✅ The "Image Generation Workflow": Create a web application that turns your text descriptions into beautiful images (Learn how I generate artwork without paying for Midjourney or DALL-E)
+
+✅ The "Prompt Engineering Framework": Craft effective instructions that get you exactly the results you want (I'll share my tested templates for both text and image generation)
+
+✅ The "Python Basics Crash Course": Learn just enough coding to make these projects work (No computer science degree required)
+
+What's Included in Your €17 Purchase:
+📘 The complete "Zero to AI" e-book with step-by-step instructions
+
+💾 Ready-to-use Python code files you can copy and paste
+
+🔑 Instructions for getting your own free API keys
+
+📊 Visual guides to setting up your development environment
+
+🎓 Beginner-friendly explanations of technical concepts
+
+​
+
+Who Am I to Teach This?
+I started my AI journey as a complete beginner with a background in philosophy, not computer science. After discovering these free resources and learning through trial and error, I've built multiple AI applications without spending money on subscriptions or upgrading my hardware. I've documented everything I learned so you can skip the frustration and start creating immediately.

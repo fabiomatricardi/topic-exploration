@@ -1,0 +1,82 @@
+Ctrl+Think
+---
+I still remember the night I finally got my first local AI model running.
+
+No internet. No API key. Just me, my terminal, and a response that came from my computer.
+
+I typed:
+
+“Explain why local AI matters—in one sentence.”
+And it replied:
+
+“Because your thoughts shouldn’t require permission.”
+I laughed. Then I cried.
+
+Because for the first time, I wasn’t just using AI.
+I was controlling it.
+
+That moment sparked Ctrl + Think.
+
+An e-book + daily challenge series designed for people like us—curious, critical, tired of hype.
+
+When you join, you get:
+
+The full e-book (download instantly)
+A quick-start guide to set up your AI sandbox in 30 minutes
+An IPython cheat sheet so you never forget commands
+Daily emails with lessons and challenges (30 mins/day)
+You’ll build real tools:
+
+A local AI chatbot
+A text summarizer
+A debug helper
+Custom prompt templates
+All with free tools. All on your machine.
+
+And yes—you’ll learn Python. Not by memorizing, but by building.
+
+🎯 Special offer: €27 (originally €39) for subscribers only.
+👉 Claim Your Spot Now​
+
+​---
+
+And this is why I packed Ctrl + Click with soo many useful tools, lessons and practical hands-on:
+
+🎁 What’s Included?
+When you join today, you get:
+
+📘 The Full Ebook (PDF, but I can send you ePUB too)
+A readable, distraction-free version of all 9 issues—download once, keep forever.
+
+📩 Daily email with one ISSUE per day
+The email will give you small videos (not accessible in the PDF format), and a practical way to reply to me and ask for help.
+
+🧰 Your AI Sandbox: The No-Stress Setup Guide
+Step-by-step instructions to install:
+
+llama.cpp
+A lightweight LLM (like LFM2-1.2b)
+Python & OpenAI-compatible client
+All tested on older laptops—even without GPUs.
+📋 IPython Cheat Sheet (PDF)
+Your quick-reference guide to commands, loops, and debugging—so you never feel lost.
+
+💬 Daily Email Support (Yes, I Read Them)
+Hit reply anytime. Stuck on an error? Confused by a concept? I’ll help you fix it—personally.
+
+🧑‍💻 Who Is This For?
+✅ You’re over 40, grew up with DOS, and remember writing PRINT "HELLO" on a green screen.
+✅ You’re tired of AI hype and want to understand how things actually work.
+✅ You value privacy and don’t want your data sent to some corporate API.
+✅ You have 30 minutes a day—and want to use them meaningfully.
+
+This is not for people who want: ❌ Quick “prompt hacks”
+❌ Cloud-based dashboards
+❌ Courses that assume you already know programming
+❌ Anything that feels like a sales funnel
+
+This is for thinkers. Tinkerers. Lifelong learners.
+
+​
+
+Fabio - ThePoorGPU Guy

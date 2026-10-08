@@ -1,0 +1,65 @@
+Ciaooooo,
+
+Fabio here.
+
+It's live. The Weekend AI Agent Toolkit is officially available.
+
+Watch the 5-minute demo:
+
+video preview​
+See exactly how simple it is. No coding required.
+
+[Get the Toolkit — $7.99]
+
+Here's what you're getting:
+
+Complete Guide (25 pages, PDF + Markdown)
+
+Zero to building tools in 48 hours
+No coding required
+Step-by-step instructions
+3 Ready-to-Run Scripts
+
+One-click local model installer
+Analysis launcher (Granite)
+Coding launcher (Spark)
+3 Data Analysis Examples
+
+Supermarket sales dashboard
+Netflix movies analysis
+Employee data summary
+2 Web App Projects
+
+Flight cards generator (PDF to HTML)
+Document analysis system (full-stack)
+Local Models for Privacy
+
+Granite 4.2 3B (analysis)
+Spark-X2.5 4B (coding)
+Both Apache 2.0 licensed
+Prompt Rulebook
+
+Exact prompts for dashboards, scripts, web apps
+The key phrase that changes everything
+Total value: $64.
+
+Launch price: $7.99
+
+This week only. After October 12, the price increases to $19.
+
+If you've been waiting for a sign to learn AI agents, this is it. No more tutorials that don't translate to real work. No more feeling like you're behind.
+
+Build something this weekend. I'll show you how.
+
+	
+$19.00
+
+$7.99
+The Weekend AI Agent Toolkit
+Master OpenCode & Local LLMs in 48 Hours. Analyze Data, Build Dashboards, Create Web Apps. All on your PC, with privacy... Read more
+
+Get it now!
+​
+Talk soon, Fabio - The Poor GPU guy
+
+P.S. — Lucas built a dashboard in one weekend. Giacomo set up local models for client work. What will you build?
